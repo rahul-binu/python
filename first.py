@@ -7,10 +7,11 @@ print ('jfjfj',4)
 
 print ('MY CALCULATER')
 print ('-------------')
-def myfunction ():
+def myfunction (d):
+    print(d)
     print ('function print')
     
 value1 = input ('Enter number')
 print (value1)
 
-myfunction()
+myfunction(78)
