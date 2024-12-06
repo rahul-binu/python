@@ -15,3 +15,8 @@ value1 = input ('Enter number')
 print (value1)
 
 myfunction(78)
+
+def mySecondFunction(a, b)
+    print(a+b)
+
+mySecondFunction(5,7)
